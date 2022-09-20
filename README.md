@@ -20,6 +20,7 @@ Proyecto con el fin de analizar datos entre la relacion peso y nacionalidad dent
 * Vega Santiago 24009
 
 ## Fuentes de Datos
+[Formulario nacionalidades.csv.zip](https://github.com/Cultural-Software-Team/Cultural-Software/files/9603805/Formulario.nacionalidades.csv.zip)
 
 ## Referencias 
 
